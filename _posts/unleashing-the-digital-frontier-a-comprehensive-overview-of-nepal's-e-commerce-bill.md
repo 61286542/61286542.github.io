@@ -2,20 +2,20 @@
 title: "Unleashing the Digital Frontier: A Comprehensive Overview of Nepal's  E-commerce Bill"
 image:
   attribution: Photo by <a href="https://unsplash.com/@markkoenig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark König</a> on <a href="https://unsplash.com/photos/Tl8mDaue_II?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
   src: ecommerce.jpg
   alt: "Unleashing the Digital Frontier: A Comprehensive Overview of Nepal's  E-commerce Bill"
 categories:
   - slug: legal
     title: Legal
     color: green
-
+author:
+  image: og.png
+  name: Abhiksha Humagain
+  bio: images/og.png
+  slug: abhiksha-humagain
 excerpt: "The new introduced ecommerce bill of Nepal has created potential challenge to the ecommerce business.Lawmakers needs to carefully consider provision of bill based on both consumer protection and the growth of e-commerce businesses."
-publishedAt: 1691772697
+publishedAt: 1691782002
 ---
-
-Unleashing the Digital Frontier: A Comprehensive Overview of Nepal's  E-commerce Bill
--Abhiksha Humagain, 11 August 2023 
 
 E-commerce law plays a vital role in governing the fast-paced world of online business. It serves to protect the rights and interests of consumers by ensuring transparent pricing, clear product descriptions, and reliable return policies. On January 30, 1997, the United Nations General Assembly adopted the United Nations Commission on International Trade Law (UNCITRAL) Model Law on E-Commerce through a resolution.  This Model Law offers recommendations to all states, suggesting that they give favorable consideration to its provisions when enacting or revising their laws related to electronic commerce. Nepal Government has introduced different laws in response to the need of implementation of the resolution which includes the Electronic Transaction Act 2063, Consumer Protection Act 2075, Competition Promotion and Market Protection Act 2063, Advertisement Act 2076 etc. 
 
@@ -44,12 +44,12 @@ In addition to the responsibilities of the ecommerce business operator there are
 The issue of consumer confidentiality and privacy has also been addressed by the bill. According to section 12, e-commerce platforms are required to treat the personal information of users as confidential and not share or use such information without the explicit consent of the individuals. However, there is a provision that allows e-commerce platforms to use personal information as per the terms of the contract or agreement with the users.
 
 The e-commerce bill has provided a separate provision for the responsibility of e-commerce platform like Pathao, daraz etc. i.e. the platform that serves as a mediator and facilitator than the business operator themselves. The terms and conditions in the mobile application of Pathao App clearly mention that it is a facilitator. Hence according to Section 14, some of the responsibilities that Pathao needs to fulfill as per the bill include:
-<sup>1.<sup>	It must ensure that all information regarding products or services displayed on the platform is clear, accurate, and truthful. They should only sell products and services that are explicitly mentioned and described on the platform, avoiding any misleading or deceptive information.
-<sup>2.<sup>	It is required to maintain records of all transactions involving the buying and selling of products or services on the platform. These records should be preserved for a minimum of six years, ensuring transparency and accountability in the platform's operations.
-<sup>3.<sup>	It must ensure that the warranty and guarantee conditions offered by sellers for their products are fulfilled.
-<sup>4.<sup>	 In cases where multiple sellers offer similar products (especially in pathao food), it must ensure that there is no discrimination or preferential treatment between the sellers. All sellers should be given equal opportunities, and if any special offers or facilities are provided by certain sellers, it should be clearly communicated to the buyers.
-<sup>5.<sup>	Before listing any product or service on the platform, there should be a contract or agreement between the mediator and the seller. This contract should outline the terms and conditions for selling on the platform, ensuring mutual understanding and compliance with the platform's rules and regulations.
-<sup>6.<sup>	If a product or service is returned by a user due to not meeting the terms of the contract, it is responsible for facilitating the return process and refunding the amount to the user as per the platform's policies and guidelines.
+<sup>1.</sup>	It must ensure that all information regarding products or services displayed on the platform is clear, accurate, and truthful. They should only sell products and services that are explicitly mentioned and described on the platform, avoiding any misleading or deceptive information.
+<sup>2.</sup>	It is required to maintain records of all transactions involving the buying and selling of products or services on the platform. These records should be preserved for a minimum of six years, ensuring transparency and accountability in the platform's operations.
+<sup>3.</sup>	It must ensure that the warranty and guarantee conditions offered by sellers for their products are fulfilled.
+<sup>4.</sup>	 In cases where multiple sellers offer similar products (especially in pathao food), it must ensure that there is no discrimination or preferential treatment between the sellers. All sellers should be given equal opportunities, and if any special offers or facilities are provided by certain sellers, it should be clearly communicated to the buyers.
+<sup>5.</sup>	Before listing any product or service on the platform, there should be a contract or agreement between the mediator and the seller. This contract should outline the terms and conditions for selling on the platform, ensuring mutual understanding and compliance with the platform's rules and regulations.
+<sup>6.</sup>	If a product or service is returned by a user due to not meeting the terms of the contract, it is responsible for facilitating the return process and refunding the amount to the user as per the platform's policies and guidelines.
 
 The e-commerce bill recognizes the significance of contract formation in regulating the e-commerce business. Various provisions within the bill underscore the importance of establishing contracts between the parties involved in e-commerce transactions.
 
@@ -78,11 +78,11 @@ The current e-commerce bill in Nepal does not specifically address the provision
 
 Thus, addressing these concerns and making necessary amendments, the legislation can foster a more secure, inclusive, and technologically neutral environment for e-commerce activities in Nepal. This will ultimately promote a thriving digital marketplace, protect consumer interests, and support the growth of both local entrepreneurs and larger businesses in the e-commerce sector.
 
-References 
-<sup>1.<sup>	E- commerce Bill  https://na.parliament.gov.np/uploads/attachments/o7vdqh0q7f63btub.pdf
-<sup>2.<sup>	Electronic Commerce, United Nations  https://uncitral.un.org/en/texts/ecommerce 
-<sup>3.<sup>	New E-commerce law to ensure consumer protection https://kathmandupost.com/money/2023/07/05/new-e-commerce-law-to-ensure-consumer-protection
-<sup>4.<sup>	Roshan Sedhai, Taken for a ride by Pathao, https://www.recordnepal.com/taken-for-a-ride-by-pathao
-<sup>5.<sup>	Santosh Chapagai, Opportunities and challenges of e-commerce to customers, comparative analysis of Nepal and Finland https://www.theseus.fi/bitstream/handle/10024/744250/Chapagai_Santosh.pdf?sequence=2&isAllowed=y
-<sup>6.<sup>	UNCITRAL e- commerce texts and paperless trade facilitation https://www.unescap.org/sites/default/files/3%20UNCITRAL_Session%208.pdf 
+## References 
+<sup>1.</sup>	E- commerce Bill  https://na.parliament.gov.np/uploads/attachments/o7vdqh0q7f63btub.pdf
+<sup>2.</sup>	Electronic Commerce, United Nations  https://uncitral.un.org/en/texts/ecommerce 
+<sup>3.</sup>	New E-commerce law to ensure consumer protection https://kathmandupost.com/money/2023/07/05/new-e-commerce-law-to-ensure-consumer-protection
+<sup>4.</sup>	Roshan Sedhai, Taken for a ride by Pathao, https://www.recordnepal.com/taken-for-a-ride-by-pathao
+<sup>5.</sup>	Santosh Chapagai, Opportunities and challenges of e-commerce to customers, comparative analysis of Nepal and Finland https://www.theseus.fi/bitstream/handle/10024/744250/Chapagai_Santosh.pdf?sequence=2&isAllowed=y
+<sup>6.</sup>	UNCITRAL e- commerce texts and paperless trade facilitation https://www.unescap.org/sites/default/files/3%20UNCITRAL_Session%208.pdf 
 

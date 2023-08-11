@@ -75,9 +75,14 @@ Thus, addressing these concerns and making necessary amendments, the legislation
 
 ## References 
 <sup>1.</sup>	E- commerce Bill  https://na.parliament.gov.np/uploads/attachments/o7vdqh0q7f63btub.pdf
+
 <sup>2.</sup>	Electronic Commerce, United Nations  https://uncitral.un.org/en/texts/ecommerce 
+
 <sup>3.</sup>	New E-commerce law to ensure consumer protection https://kathmandupost.com/money/2023/07/05/new-e-commerce-law-to-ensure-consumer-protection
+
 <sup>4.</sup>	Roshan Sedhai, Taken for a ride by Pathao, https://www.recordnepal.com/taken-for-a-ride-by-pathao
+
 <sup>5.</sup>	Santosh Chapagai, Opportunities and challenges of e-commerce to customers, comparative analysis of Nepal and Finland https://www.theseus.fi/bitstream/handle/10024/744250/Chapagai_Santosh.pdf?sequence=2&isAllowed=y
+
 <sup>6.</sup>	UNCITRAL e- commerce texts and paperless trade facilitation https://www.unescap.org/sites/default/files/3%20UNCITRAL_Session%208.pdf 
 

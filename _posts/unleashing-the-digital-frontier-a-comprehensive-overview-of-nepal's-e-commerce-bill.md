@@ -8,11 +8,6 @@ categories:
   - slug: legal
     title: Legal
     color: green
-author:
-  image: og.png
-  name: Abhiksha Humagain
-  bio: images/og.png
-  slug: abhiksha-humagain
 excerpt: "The new introduced ecommerce bill of Nepal has created potential challenge to the ecommerce business.Lawmakers needs to carefully consider provision of bill based on both consumer protection and the growth of e-commerce businesses."
 publishedAt: 1691782002
 ---

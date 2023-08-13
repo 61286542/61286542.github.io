@@ -74,7 +74,7 @@ Similarly, making intermediatory platforms liable and subject to imprisonment fo
 Thus, addressing these concerns and making necessary amendments, the legislation can foster a more secure, inclusive, and technologically neutral environment for e-commerce activities in Nepal. This will ultimately promote a thriving digital marketplace, protect consumer interests, and support the growth of both local entrepreneurs and larger businesses in the e-commerce sector.
 
 ## References 
-<sup>1.</sup>	[E- commerce Bill] (https://na.parliament.gov.np/uploads/attachments/o7vdqh0q7f63btub.pdf)
+<sup>1.</sup>	[ E- commerce Bill ] ( https://na.parliament.gov.np/uploads/attachments/o7vdqh0q7f63btub.pdf )
 
 <sup>2.</sup>	[Electronic Commerce, United Nations]  (https://uncitral.un.org/en/texts/ecommerce)
 

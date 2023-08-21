@@ -5,9 +5,9 @@ image:
   src: ecommerce.jpg
   alt: "Unleashing the Digital Frontier: A Comprehensive Overview of Nepal's  E-commerce Bill"
 categories:
-  - slug: legal
-    title: Legal
-    color: green
+  - slug: commerical-law
+    title: Commercial Law
+    color: orange
 excerpt: "The new introduced ecommerce bill of Nepal has created potential challenge to the ecommerce business.Lawmakers needs to carefully consider provision of bill based on both consumer protection and the growth of e-commerce businesses."
 publishedAt: 1691782002
 ---

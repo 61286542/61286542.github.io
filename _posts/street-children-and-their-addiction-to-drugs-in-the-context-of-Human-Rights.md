@@ -8,7 +8,7 @@ author:
   image: null
   slug: abhiksha-humagain
   name: Abhiksha Humagain
-  bio: Legal Intern · Legal Trainee · Legal Internship · Research Assistant · Research Fellowship
+  bio: Legal Intern · Legal Trainee 
 categories:
   - slug: human-rights
     title: Human Rights

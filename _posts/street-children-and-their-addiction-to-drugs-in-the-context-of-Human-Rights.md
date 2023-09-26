@@ -12,7 +12,7 @@ author:
 categories:
   - slug: human-rights
     title: Human Rights
-    color: green
+    color: blue
 excerpt: "About 95% of street children are involved in dendrite sniffing’ and there is no policy that restricts selling dendrite.Although there is no mention of the term street children under CRC if we analyze the convention then from the preamble to various articles the rights of street children have been addressed."
 publishedAt: 1692633575
 ---

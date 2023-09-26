@@ -4,6 +4,11 @@ image:
  attribution: Photo by <a href="https://unsplash.com/@engine_neear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bikalpa Pokhrel</a> on <a href="https://unsplash.com/photos/L4NA2qRqK0s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
  src: culturaltolerance.jpg
  alt: "Intersecting Identities: Law and Cultural Tolerance in Nepal"
+author:
+  image: null
+  slug: abhiksha-humagain
+  name: Abhiksha Humagain
+  bio: Legal Intern · Legal Trainee 
 categories:
 - slug: law-and-culture
   color: Blue

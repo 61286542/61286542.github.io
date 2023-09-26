@@ -11,7 +11,7 @@ author:
   bio: Legal Intern · Legal Trainee 
 categories:
 - slug: law-and-culture
-  color: green
+  color: yellow
   title: Law and Culture
 excerpt: "This paper delves into the intricate interplay between Nepal's legal system and cultural tolerance, illuminating how constitutional provisions and legal safeguards have been instrumental in promoting harmony, respecting diverse cultural identities, and upholding individual rights within the country's rich tapestry of traditions and beliefs."
 publishedAt: 1695742240

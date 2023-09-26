@@ -6,7 +6,7 @@ image:
  alt: "Intersecting Identities: Law and Cultural Tolerance in Nepal"
 categories:
 - slug: law-and-culture
-  color: Orange
+  color: Blue
   title: Law and Culture
 excerpt: "This paper delves into the intricate interplay between Nepal's legal system and cultural tolerance, illuminating how constitutional provisions and legal safeguards have been instrumental in promoting harmony, respecting diverse cultural identities, and upholding individual rights within the country's rich tapestry of traditions and beliefs."
 publishedAt: 1695742240
@@ -52,19 +52,6 @@ Growing up in a diverse country like Nepal, one can witness numerous manifestati
 Therefore, in cases pertaining to issues such as sexual orientation, disability, political dissent, and often, religious individuals seeking protection from discrimination, constitutional rights have consistently played a pivotal role in achieving positive legal outcomes. This demonstrates that the principles of cultural tolerance are inherently embedded in the legal system itself.
 
 Law, as a system, serves as an interpretative worldview consisting of symbols, thought categories, and specific behaviors that give meaning to human experiences. Within this framework, constitutional rights act as a guiding force, ensuring that individuals are protected and that their diverse backgrounds and beliefs are respected. As a result, the legal system serves as a cornerstone for promoting cultural tolerance and safeguarding the rights and dignity of all members of society.
-
-**Bibliography**
-
-Aditya, Ananda, ‘*The Civil Socirty- State Interface in Nepal’*, Friedrich Ebert Foundation
-
-Berger L. Benjamin. *The Cultural Limits of Legal Tolerance* <https://deliverypdf.ssrn.com/delivery.php?ID=613115082115012005103026124017077004105010020053060007069094000069004121002099113030098123043125040056029119109015120124091084048016013022088023114102115121117090051048056017116083064010026073122101126112020002087118124022127084073118010111127103082&EXT=pdf&INDEX=TRUE>
-
-Haiming Chen, *China Daily*, 2019, <http://europe.chinadaily.com.cn/a/201906/10/WS5cfd9107a310176577230235.html#:~:text=Cultural%20inclusiveness%20and%20tolerance%20can,values%2C%20and%20therefore%20promote%20harmony>
-
-Kathleen, *Why is religious tolerance necessary in Nepal*, <https://www.forestrynepal.org/why-is-religious-tolerance-necessary-in-nepal/>
-
-Nepal Sushrey, *‘10 most important cases of Nepal’* available at <https://sushrey.wordpress.com/2015/06/26/10-most-important-court-cases-of-nepal/>
-
 
 [\[1\]](#_ftnref1) Ananda Aditya , ‘The Civil Socirty- State Interface in Nepal’,Friedrich Ebert Foundation, First edition 2011 p.77
 

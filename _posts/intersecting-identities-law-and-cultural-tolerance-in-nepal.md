@@ -62,7 +62,7 @@ Law, as a system, serves as an interpretative worldview consisting of symbols, t
 
 [\[2\]](#_ftnref2) Universal Declaration on Cultural Diversity, 2 November 2001, Article 1
 
-[\[3\]](#_ftnref3) Benjamin L. Berger The Cultural Limits of Legal Tolerance available at <https://deliverypdf.ssrn.com/delivery.php?ID=613115082115012005103026124017077004105010020053060007069094000069004121002099113030098123043125040056029119109015120124091084048016013022088023114102115121117090051048056017116083064010026073122101126112020002087118124022127084073118010111127103082&EXT=pdf&INDEX=TRUE> accessed on 15 August 2022
+[\[3\]](#_ftnref3) [Benjamin L. Berger The Cultural Limits of Legal Tolerance](https://deliverypdf.ssrn.com/delivery.php?ID=613115082115012005103026124017077004105010020053060007069094000069004121002099113030098123043125040056029119109015120124091084048016013022088023114102115121117090051048056017116083064010026073122101126112020002087118124022127084073118010111127103082&EXT=pdf&INDEX=TRUE)
 
 [\[4\]](#_ftnref4) Nepal ko Samibhadh 2072, Constitution Of Nepal 2072 Article 3
 
@@ -70,6 +70,6 @@ Law, as a system, serves as an interpretative worldview consisting of symbols, t
 
 [\[6\]](#_ftnref6) Constitution Section 32(3)
 
-[\[7\]](#_ftnref7) Kathleen, *Why is religious tolerance necessary in Nepal*, available at <https://www.forestrynepal.org/why-is-religious-tolerance-necessary-in-nepal/> accessed on 15 August 2022
+[\[7\]](#_ftnref7) [Kathleen, *Why is religious tolerance necessary in Nepal*](https://www.forestrynepal.org/why-is-religious-tolerance-necessary-in-nepal/)
 
-[\[8\]](#_ftnref8) Chen Haiming, *China Daily*, 2019, available at <http://europe.chinadaily.com.cn/a/201906/10/WS5cfd9107a310176577230235.html#:~:text=Cultural%20inclusiveness%20and%20tolerance%20can,values%2C%20and%20therefore%20promote%20harmony>, accessed on 15 August 2022
+[\[8\]](#_ftnref8) [Chen Haiming, *China Daily](http://europe.chinadaily.com.cn/a/201906/10/WS5cfd9107a310176577230235.html#:~:text=Cultural%20inclusiveness%20and%20tolerance%20can,values%2C%20and%20therefore%20promote%20harmony)

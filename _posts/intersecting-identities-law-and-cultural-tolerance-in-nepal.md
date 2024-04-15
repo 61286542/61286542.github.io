@@ -68,7 +68,7 @@ Law, as a system, serves as an interpretative worldview consisting of symbols, t
 
 [\[5\]](#_ftnref5) Nepal ko Samibhadh 2072, Constitution Of Nepal 2072 Article 26(1)
 
-[\[6\]](#_ftnref6) Constitution Section 32(3)
+[\[6\]](#_ftnref6) Constitution Article 32(3)
 
 [\[7\]](#_ftnref7) [Kathleen, *Why is religious tolerance necessary in Nepal*](https://www.forestrynepal.org/why-is-religious-tolerance-necessary-in-nepal/)
 
